@@ -44,5 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: pixelpotato/python-helloworld:latest
-© 2021 GitHub, Inc.
+          tags: adilla2000/python-helloworld:latest
